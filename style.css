@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2 {
+    font-family: 'Martian Mono', monospace;
+    text-align: center;
+    color: rgb(49, 48, 48);
+}
+
+.s1 {
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
+}
+
+.s2 {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: large;
+}
+
+.s3 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: x-large;
+}
+
+.s4 {
+    font-family: 'Mooli', sans-serif;
+    font-weight: 900;
+}
+
+.s5 {
+    font-family: 'Prompt', sans-serif;
+    font-size: larger;
+}
+
+section {
+    font-family: 'Sintony', sans-serif;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+div {
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+footer {
+    font-family: 'Martian Mono', monospace;
+    text-align: center;
+    color: rgb(49, 48, 48);
+}
